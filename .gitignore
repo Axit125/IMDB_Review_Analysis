@@ -1,0 +1,16 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+
+# Model files
+*.pkl
+
+# Streamlit local config files
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
